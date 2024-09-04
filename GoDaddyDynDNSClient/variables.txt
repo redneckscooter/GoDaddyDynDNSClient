@@ -1,0 +1,4 @@
+﻿myDomain = example.com
+myHostname = host
+apiKey = key
+apiSecret = secret
